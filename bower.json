@@ -1,0 +1,17 @@
+{
+  "name": "gits",
+  "authors": [
+    "Vladislav Pivovarov <vladpivovarov2797@ya.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
