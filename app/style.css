@@ -1,6 +1,12 @@
 body{
     font-style: 18px;
-    background: darkslategrey;
     line-height: 20px;
-
+    background: url(../arni.jpg);
+    background-size: cover;
+    color: white;
+}
+.block-arni{
+	text-align: center;
+	font-size: 40px;
+	padding-top: 30px;
 }
